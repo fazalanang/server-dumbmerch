@@ -14,7 +14,7 @@
     "dialect": "mysql"
   },
   "production": {
-    "use_env_variable": "dumbmerchB34",
+    "use_env_variable": "database_url",
     "dialect": "postgres",
     "protocol": "postgres",
     "dialectOptions": {
